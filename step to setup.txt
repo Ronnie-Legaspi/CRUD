@@ -3,7 +3,7 @@ setup
 database name is crud
 
 1. Create Database name (crud)
-2. import student_table on the crud ("users"-- name of the table)
+2. import users(table name) on the crud ("users"-- name of the table)
 3. upload all files on your xampp/htdocs..
 
 then try it now... 
